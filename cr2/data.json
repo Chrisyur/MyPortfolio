@@ -1,0 +1,57 @@
+let tasksJson = `[
+    {
+        "taskName": "Shopping",
+        "image": "images/shopping.jpg",
+        "description": "Shop for weekly groceries at Spar and dm.",
+        "importance": 0
+    },
+    {
+        "taskName": "Guitar practice",
+        "image": "images/guitar.jpg",
+        "description": "Practice at least two hours with the guitar.",
+        "importance": 0
+    },
+    {
+        "taskName": "Outdoors excursion",
+        "image": "images/walk.jpg",
+        "description": "Take a 1 hour walk outside.",
+        "importance": 0
+    },
+    {
+        "taskName": "Clay sculpting",
+        "image": "images/sculpting.jpg",
+        "description": "Try your hand at clay sculpting.",
+        "importance": 0
+    },
+    {
+        "taskName": "House cleaning",
+        "image": "images/cleaning.jpg",
+        "description": "Dust the house and clean the carpets.",
+        "importance": 0
+    },
+    {
+        "taskName": "Meditation",
+        "image": "images/meditate.jpg",
+        "description": "Meditate for one hour.",
+        "importance": 0
+    },
+    {
+        "taskName": "Movie watchalong",
+        "image": "images/movie.jpg",
+        "description": "Get together with your friends and watch a movie.",
+        "importance": 0
+    },
+    {
+        "taskName": "Japanese practice",
+        "image": "images/japanese.jpg",
+        "description": "Learn at least 20 new Japanese words and practice writing them.",
+        "importance": 0
+    },
+    {
+        "taskName": "Family gathering",
+        "image": "images/family.jpg",
+        "description": "Plan a weekend family gathering.",
+        "importance": 0
+    }
+]`;
+  
