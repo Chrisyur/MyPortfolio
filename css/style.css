@@ -9917,6 +9917,22 @@ h6,
   transition: 2s;
 }
 
+#htmlBar {
+  background-color: #fd7e14;
+}
+
+#cssBar {
+  background-color: #0d6efd;
+}
+
+#bsBar {
+  background-color: #6610f2;
+}
+
+#phpBar {
+  background-color: #6f42c1;
+}
+
 .service-icon {
   width: 60px;
   height: 60px;
